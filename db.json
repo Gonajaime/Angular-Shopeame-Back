@@ -1,0 +1,53 @@
+{
+  "products": [
+    {
+      "id": 4,
+      "name": "Mjolnir",
+      "price": 90,
+      "imgUrl": "https://www.espadasyorodetoledo.com/wp-content/uploads/2022/07/Martillo-Thor-S1053S-1024x1024-1.png",
+      "stars": 5
+    },
+    {
+      "id": 5,
+      "name": "R2D2",
+      "price": 400,
+      "imgUrl": "https://cdn.pixabay.com/photo/2022/06/04/20/20/r2-d2-7242774_640.png",
+      "stars": 4
+    },
+    {
+      "id": 6,
+      "name": "Escudo Capitan America",
+      "price": 160,
+      "imgUrl": "https://i.pinimg.com/originals/89/39/93/893993cf74bf7bd4c2f6cf445db31e7e.png",
+      "stars": 5
+    },
+    {
+      "name": "Nucleo Iron-Man",
+      "price": "85",
+      "imgUrl": "https://imusic.b-cdn.net/images/item/original/254/5059072061254.jpg?marvel-2021-iron-man-arc-reactor-iron-man-merch&class=scaled",
+      "id": 8,
+      "stars": 5
+    },
+    {
+      "name": "Arco Hawkeye",
+      "price": "120",
+      "imgUrl": "http://3.bp.blogspot.com/-zZPOBwuwP7Q/UNx-8V0RymI/AAAAAAAABac/hU5lNYwXOPA/s1600/AVENGE~1.PNG",
+      "id": 10,
+      "stars": 4
+    },
+    {
+      "name": "Casco Loki",
+      "price": "70",
+      "imgUrl": "https://ae01.alicdn.com/kf/H136fa2065a334e2ca8d5eed37bcac8f4l/Casco-de-Los-Vengadores-de-Marvel-para-mujer-Cosplay-de-Loki-Ragnarok-m-scara-de-Drama.png_.webp",
+      "stars": "4",
+      "id": 12
+    },
+    {
+      "name": "Guantes Hulk",
+      "price": "30",
+      "imgUrl": "https://ae01.alicdn.com/kf/S04f5910bcb414c93a6e30db68f1432e0b/Guantes-de-boxeo-de-Anime-de-Marvel-Hulk-vengadores-pu-o-de-Spiderman-juguetes-de-peluche.png_640x640.png",
+      "stars": "3",
+      "id": 13
+    }
+  ]
+}
